@@ -1,0 +1,8 @@
+Voici un programme qui permet de visualiser des objets géométriques tels qu'un cube, un tore ou un noeud de trèfle. Le programme utilise des notions sur les espaces vectoriels (changement de base, matrice de rotation).
+J'ai utilisé pygame pour l'interface graphique et j'ai programmé en utilisant la POO.
+
+Sinon, voici quelques références que j'ai utilisé pour coder le visualisateur :
+https://en.wikipedia.org/wiki/Trefoil_knot
+https://fr.wikipedia.org/wiki/Tore
+https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_sph%C3%A9riques
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw

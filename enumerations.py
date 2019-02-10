@@ -1,0 +1,12 @@
+
+PRES, PAST, DELAY = 0, 1, 2
+X, Y, Z = 0, 1, 2
+VERT, HOR = 0, 1
+NULL, UP, DOWN, RIGHT, LEFT = -1, 0, 1, 2, 3
+NO, NE, SO, SE = 0, 1, 2, 3#points cardinaux
+MONT, STOP, DESC = 1, 0, -1
+UN, DEUX = 0, 1# joueur UN, joueur DEUX
+CUBE, TORUS, TREFOIL_KNOT, HELICOID = 0, 1, 2, 3
+TRANS, ROT = 0, 1
+SENS, AXIS, STATE = 0, 1, 2
+ONE_POINT, OBLIQUE, THREE_POINT = 0, 1, 2
